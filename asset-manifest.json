@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/BitMoney/static/css/main.2680dfa7.chunk.css",
+    "main.js": "/BitMoney/static/js/main.9d9314a5.chunk.js",
+    "main.js.map": "/BitMoney/static/js/main.9d9314a5.chunk.js.map",
+    "runtime-main.js": "/BitMoney/static/js/runtime-main.c72315fe.js",
+    "runtime-main.js.map": "/BitMoney/static/js/runtime-main.c72315fe.js.map",
+    "static/js/2.da359006.chunk.js": "/BitMoney/static/js/2.da359006.chunk.js",
+    "static/js/2.da359006.chunk.js.map": "/BitMoney/static/js/2.da359006.chunk.js.map",
+    "index.html": "/BitMoney/index.html",
+    "precache-manifest.3a177324c06b2002438ebe77178c23ee.js": "/BitMoney/precache-manifest.3a177324c06b2002438ebe77178c23ee.js",
+    "service-worker.js": "/BitMoney/service-worker.js",
+    "static/css/main.2680dfa7.chunk.css.map": "/BitMoney/static/css/main.2680dfa7.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c72315fe.js",
+    "static/js/2.da359006.chunk.js",
+    "static/css/main.2680dfa7.chunk.css",
+    "static/js/main.9d9314a5.chunk.js"
+  ]
+}
